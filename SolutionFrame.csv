@@ -1,0 +1,87 @@
+,Best Score X1,Best Values X1,Best Score X2,Best Values X2,Feature Selection Name
+0,0.37,"{'bootstrap': False, 'criterion': 'entropy', 'n_estimators': 50, 'warm_start': True}",0.37,"{'bootstrap': False, 'criterion': 'entropy', 'n_estimators': 50, 'warm_start': True}",DelahuntyAndOcallagan
+1,0.37,"{'bootstrap': False, 'criterion': 'entropy', 'n_estimators': 50, 'warm_start': True}",0.37,"{'bootstrap': False, 'criterion': 'entropy', 'n_estimators': 50, 'warm_start': True}",HuangEtAl
+2,0.37,"{'bootstrap': False, 'criterion': 'entropy', 'n_estimators': 50, 'warm_start': True}",0.37,"{'bootstrap': False, 'criterion': 'entropy', 'n_estimators': 50, 'warm_start': True}",Kim
+3,0.37,"{'bootstrap': False, 'criterion': 'entropy', 'n_estimators': 50, 'warm_start': True}",0.37,"{'bootstrap': False, 'criterion': 'entropy', 'n_estimators': 50, 'warm_start': True}",BarbazonAndONeill
+4,0.37,"{'bootstrap': False, 'criterion': 'entropy', 'n_estimators': 50, 'warm_start': True}",0.37,"{'bootstrap': False, 'criterion': 'entropy', 'n_estimators': 50, 'warm_start': True}",HwangEtAl
+5,0.37,"{'bootstrap': False, 'criterion': 'entropy', 'n_estimators': 50, 'warm_start': True}",0.37,"{'bootstrap': False, 'criterion': 'entropy', 'n_estimators': 50, 'warm_start': True}",rand1
+6,0.37,"{'bootstrap': False, 'criterion': 'entropy', 'n_estimators': 50, 'warm_start': True}",0.37,"{'bootstrap': False, 'criterion': 'entropy', 'n_estimators': 50, 'warm_start': True}",rand2
+7,0.37,"{'bootstrap': False, 'criterion': 'entropy', 'n_estimators': 50, 'warm_start': True}",0.37,"{'bootstrap': False, 'criterion': 'entropy', 'n_estimators': 50, 'warm_start': True}",rand3
+8,0.37,"{'bootstrap': False, 'criterion': 'entropy', 'n_estimators': 50, 'warm_start': True}",0.37,"{'bootstrap': False, 'criterion': 'entropy', 'n_estimators': 50, 'warm_start': True}",rand4
+9,0.37,"{'bootstrap': False, 'criterion': 'entropy', 'n_estimators': 50, 'warm_start': True}",0.37,"{'bootstrap': False, 'criterion': 'entropy', 'n_estimators': 50, 'warm_start': True}",rand5
+10,0.37,"{'bootstrap': False, 'criterion': 'entropy', 'n_estimators': 50, 'warm_start': True}",0.37,"{'bootstrap': False, 'criterion': 'entropy', 'n_estimators': 50, 'warm_start': True}",ownD
+11,0.37,"{'bootstrap': False, 'criterion': 'entropy', 'n_estimators': 50, 'warm_start': True}",0.37,"{'bootstrap': False, 'criterion': 'entropy', 'n_estimators': 50, 'warm_start': True}",features1RF_mean
+12,0.37,"{'bootstrap': False, 'criterion': 'entropy', 'n_estimators': 50, 'warm_start': True}",0.37,"{'bootstrap': False, 'criterion': 'entropy', 'n_estimators': 50, 'warm_start': True}",features1RF_median
+13,0.37,"{'bootstrap': False, 'criterion': 'entropy', 'n_estimators': 50, 'warm_start': True}",0.37,"{'bootstrap': False, 'criterion': 'entropy', 'n_estimators': 50, 'warm_start': True}",features1RF_8
+14,0.37,"{'bootstrap': False, 'criterion': 'entropy', 'n_estimators': 50, 'warm_start': True}",0.37,"{'bootstrap': False, 'criterion': 'entropy', 'n_estimators': 50, 'warm_start': True}",features2RF_mean
+15,0.37,"{'bootstrap': False, 'criterion': 'entropy', 'n_estimators': 50, 'warm_start': True}",0.37,"{'bootstrap': False, 'criterion': 'entropy', 'n_estimators': 50, 'warm_start': True}",features2RF_median
+16,0.37,"{'bootstrap': False, 'criterion': 'entropy', 'n_estimators': 50, 'warm_start': True}",0.37,"{'bootstrap': False, 'criterion': 'entropy', 'n_estimators': 50, 'warm_start': True}",features2RF_8
+17,0.37,"{'bootstrap': False, 'criterion': 'entropy', 'n_estimators': 50, 'warm_start': True}",0.37,"{'bootstrap': False, 'criterion': 'entropy', 'n_estimators': 50, 'warm_start': True}",features1RBF_mean
+18,0.37,"{'bootstrap': False, 'criterion': 'entropy', 'n_estimators': 50, 'warm_start': True}",0.37,"{'bootstrap': False, 'criterion': 'entropy', 'n_estimators': 50, 'warm_start': True}",features1RBF_median
+19,0.37,"{'bootstrap': False, 'criterion': 'entropy', 'n_estimators': 50, 'warm_start': True}",0.37,"{'bootstrap': False, 'criterion': 'entropy', 'n_estimators': 50, 'warm_start': True}",features1RBF_8
+20,0.37,"{'bootstrap': False, 'criterion': 'entropy', 'n_estimators': 50, 'warm_start': True}",0.37,"{'bootstrap': False, 'criterion': 'entropy', 'n_estimators': 50, 'warm_start': True}",features2RBF_mean
+21,0.37,"{'bootstrap': False, 'criterion': 'entropy', 'n_estimators': 50, 'warm_start': True}",0.37,"{'bootstrap': False, 'criterion': 'entropy', 'n_estimators': 50, 'warm_start': True}",features2RBF_median
+22,0.37,"{'bootstrap': False, 'criterion': 'entropy', 'n_estimators': 50, 'warm_start': True}",0.37,"{'bootstrap': False, 'criterion': 'entropy', 'n_estimators': 50, 'warm_start': True}",features2RBF_8
+23,0.6766666666666666,"{'learning_rate': 0.11120000000000001, 'max_depth': 7, 'min_impurity_split': 5.555600000000001e-05, 'subsample': 0.55, 'tol': 0.01, 'warm_start': True}",0.6766666666666666,"{'learning_rate': 0.11120000000000001, 'max_depth': 7, 'min_impurity_split': 5.555600000000001e-05, 'subsample': 0.55, 'tol': 0.01, 'warm_start': True}",DelahuntyAndOcallagan
+24,0.6766666666666666,"{'learning_rate': 0.11120000000000001, 'max_depth': 7, 'min_impurity_split': 5.555600000000001e-05, 'subsample': 0.55, 'tol': 0.01, 'warm_start': True}",0.6766666666666666,"{'learning_rate': 0.11120000000000001, 'max_depth': 7, 'min_impurity_split': 5.555600000000001e-05, 'subsample': 0.55, 'tol': 0.01, 'warm_start': True}",HuangEtAl
+25,0.6766666666666666,"{'learning_rate': 0.11120000000000001, 'max_depth': 7, 'min_impurity_split': 5.555600000000001e-05, 'subsample': 0.55, 'tol': 0.01, 'warm_start': True}",0.6766666666666666,"{'learning_rate': 0.11120000000000001, 'max_depth': 7, 'min_impurity_split': 5.555600000000001e-05, 'subsample': 0.55, 'tol': 0.01, 'warm_start': True}",Kim
+26,0.6766666666666666,"{'learning_rate': 0.11120000000000001, 'max_depth': 7, 'min_impurity_split': 5.555600000000001e-05, 'subsample': 0.55, 'tol': 0.01, 'warm_start': True}",0.6766666666666666,"{'learning_rate': 0.11120000000000001, 'max_depth': 7, 'min_impurity_split': 5.555600000000001e-05, 'subsample': 0.55, 'tol': 0.01, 'warm_start': True}",BarbazonAndONeill
+27,0.6766666666666666,"{'learning_rate': 0.11120000000000001, 'max_depth': 7, 'min_impurity_split': 5.555600000000001e-05, 'subsample': 0.55, 'tol': 0.01, 'warm_start': True}",0.6766666666666666,"{'learning_rate': 0.11120000000000001, 'max_depth': 7, 'min_impurity_split': 5.555600000000001e-05, 'subsample': 0.55, 'tol': 0.01, 'warm_start': True}",HwangEtAl
+28,0.6766666666666666,"{'learning_rate': 0.11120000000000001, 'max_depth': 7, 'min_impurity_split': 5.555600000000001e-05, 'subsample': 0.55, 'tol': 0.01, 'warm_start': True}",0.6766666666666666,"{'learning_rate': 0.11120000000000001, 'max_depth': 7, 'min_impurity_split': 5.555600000000001e-05, 'subsample': 0.55, 'tol': 0.01, 'warm_start': True}",rand1
+29,0.6766666666666666,"{'learning_rate': 0.11120000000000001, 'max_depth': 7, 'min_impurity_split': 5.555600000000001e-05, 'subsample': 0.55, 'tol': 0.01, 'warm_start': True}",0.6766666666666666,"{'learning_rate': 0.11120000000000001, 'max_depth': 7, 'min_impurity_split': 5.555600000000001e-05, 'subsample': 0.55, 'tol': 0.01, 'warm_start': True}",rand2
+30,0.6766666666666666,"{'learning_rate': 0.11120000000000001, 'max_depth': 7, 'min_impurity_split': 5.555600000000001e-05, 'subsample': 0.55, 'tol': 0.01, 'warm_start': True}",0.6766666666666666,"{'learning_rate': 0.11120000000000001, 'max_depth': 7, 'min_impurity_split': 5.555600000000001e-05, 'subsample': 0.55, 'tol': 0.01, 'warm_start': True}",rand3
+31,0.6766666666666666,"{'learning_rate': 0.11120000000000001, 'max_depth': 7, 'min_impurity_split': 5.555600000000001e-05, 'subsample': 0.55, 'tol': 0.01, 'warm_start': True}",0.6766666666666666,"{'learning_rate': 0.11120000000000001, 'max_depth': 7, 'min_impurity_split': 5.555600000000001e-05, 'subsample': 0.55, 'tol': 0.01, 'warm_start': True}",rand4
+32,0.6766666666666666,"{'learning_rate': 0.11120000000000001, 'max_depth': 7, 'min_impurity_split': 5.555600000000001e-05, 'subsample': 0.55, 'tol': 0.01, 'warm_start': True}",0.6766666666666666,"{'learning_rate': 0.11120000000000001, 'max_depth': 7, 'min_impurity_split': 5.555600000000001e-05, 'subsample': 0.55, 'tol': 0.01, 'warm_start': True}",rand5
+33,0.6766666666666666,"{'learning_rate': 0.11120000000000001, 'max_depth': 7, 'min_impurity_split': 5.555600000000001e-05, 'subsample': 0.55, 'tol': 0.01, 'warm_start': True}",0.6766666666666666,"{'learning_rate': 0.11120000000000001, 'max_depth': 7, 'min_impurity_split': 5.555600000000001e-05, 'subsample': 0.55, 'tol': 0.01, 'warm_start': True}",ownD
+34,0.6766666666666666,"{'learning_rate': 0.11120000000000001, 'max_depth': 7, 'min_impurity_split': 5.555600000000001e-05, 'subsample': 0.55, 'tol': 0.01, 'warm_start': True}",0.6766666666666666,"{'learning_rate': 0.11120000000000001, 'max_depth': 7, 'min_impurity_split': 5.555600000000001e-05, 'subsample': 0.55, 'tol': 0.01, 'warm_start': True}",features1RF_mean
+35,0.6766666666666666,"{'learning_rate': 0.11120000000000001, 'max_depth': 7, 'min_impurity_split': 5.555600000000001e-05, 'subsample': 0.55, 'tol': 0.01, 'warm_start': True}",0.6766666666666666,"{'learning_rate': 0.11120000000000001, 'max_depth': 7, 'min_impurity_split': 5.555600000000001e-05, 'subsample': 0.55, 'tol': 0.01, 'warm_start': True}",features1RF_median
+36,0.37,"{'bootstrap': False, 'criterion': 'entropy', 'n_estimators': 50, 'warm_start': True}",0.37,"{'bootstrap': False, 'criterion': 'entropy', 'n_estimators': 50, 'warm_start': True}","GridSearchCV(cv=3, error_score='raise-deprecating',
+       estimator=RandomForestClassifier(bootstrap=True, class_weight=None, criterion='gini',
+            max_depth=None, max_features='auto', max_leaf_nodes=None,
+            min_impurity_decrease=0.0, min_impurity_split=None,
+            min_samples_leaf=1, min_samples_split=2,
+            min_weight_fraction_leaf=0.0, n_estimators='warn', n_jobs=None,
+            oob_score=False, random_state=None, verbose=0,
+            warm_start=False),
+       fit_params=None, iid='warn', n_jobs=-1,
+       param_grid={'n_estimators': array([  1,  10,  50, 100, 200, 400, 800]), 'criterion': array(['gini', 'entropy'], dtype='<U7'), 'bootstrap': array([ True, False]), 'warm_start': array([ True, False])},
+       pre_dispatch='2*n_jobs', refit=True, return_train_score='warn',
+       scoring=None, verbose=0)"
+37,0.37,"{'bootstrap': False, 'criterion': 'entropy', 'n_estimators': 50, 'warm_start': True}",0.37,"{'bootstrap': False, 'criterion': 'entropy', 'n_estimators': 50, 'warm_start': True}","GridSearchCV(cv=3, error_score='raise-deprecating',
+       estimator=RandomForestClassifier(bootstrap=True, class_weight=None, criterion='gini',
+            max_depth=None, max_features='auto', max_leaf_nodes=None,
+            min_impurity_decrease=0.0, min_impurity_split=None,
+            min_samples_leaf=1, min_samples_split=2,
+            min_weight_fraction_leaf=0.0, n_estimators='warn', n_jobs=None,
+            oob_score=False, random_state=None, verbose=0,
+            warm_start=False),
+       fit_params=None, iid='warn', n_jobs=-1,
+       param_grid={'n_estimators': array([  1,  10,  50, 100, 200, 400, 800]), 'criterion': array(['gini', 'entropy'], dtype='<U7'), 'bootstrap': array([ True, False]), 'warm_start': array([ True, False])},
+       pre_dispatch='2*n_jobs', refit=True, return_train_score='warn',
+       scoring=None, verbose=0)"
+38,0.5433333333333333,"{'learning_rate': 0.11120000000000001, 'max_depth': 5, 'min_impurity_split': 3.3334e-05, 'subsample': 0.55, 'tol': 0.00888889, 'warm_start': True}",0.5433333333333333,"{'learning_rate': 0.11120000000000001, 'max_depth': 5, 'min_impurity_split': 3.3334e-05, 'subsample': 0.55, 'tol': 0.00888889, 'warm_start': True}","GridSearchCV(cv=3, error_score='raise-deprecating',
+       estimator=GradientBoostingClassifier(criterion='friedman_mse', init=None,
+              learning_rate=0.1, loss='deviance', max_depth=None,
+              max_features=None, max_leaf_nodes=None,
+              min_impurity_decrease=0.0, min_impurity_split=None,
+              min_samples_leaf=1, min_sa...      subsample=1.0, tol=0.0001, validation_fraction=0.1,
+              verbose=0, warm_start=False),
+       fit_params=None, iid='warn', n_jobs=-1,
+       param_grid={'learning_rate': array([1.000e-04, 1.112e-01, 2.223e-01, 3.334e-01, 4.445e-01, 5.556e-01,
+       6.667e-01, 7.778e-01, 8.889e-01, 1.000e+00]), 'subsample': array([0.1 , 0.55, 1.  ]), 'max_depth': array([1, 3, 5, 7, 9]), 'min_impurity_split': array([1.0000e-09, 1.1112e-05, 2.2223e-05, 3.3... 3.33334e-03, 4.44445e-03,
+       5.55556e-03, 6.66667e-03, 7.77778e-03, 8.88889e-03, 1.00000e-02])},
+       pre_dispatch='2*n_jobs', refit=True, return_train_score='warn',
+       scoring=None, verbose=0)"
+39,0.5433333333333333,"{'learning_rate': 0.11120000000000001, 'max_depth': 5, 'min_impurity_split': 3.3334e-05, 'subsample': 0.55, 'tol': 0.00888889, 'warm_start': True}",0.5433333333333333,"{'learning_rate': 0.11120000000000001, 'max_depth': 5, 'min_impurity_split': 3.3334e-05, 'subsample': 0.55, 'tol': 0.00888889, 'warm_start': True}","GridSearchCV(cv=3, error_score='raise-deprecating',
+       estimator=GradientBoostingClassifier(criterion='friedman_mse', init=None,
+              learning_rate=0.1, loss='deviance', max_depth=None,
+              max_features=None, max_leaf_nodes=None,
+              min_impurity_decrease=0.0, min_impurity_split=None,
+              min_samples_leaf=1, min_sa...      subsample=1.0, tol=0.0001, validation_fraction=0.1,
+              verbose=0, warm_start=False),
+       fit_params=None, iid='warn', n_jobs=-1,
+       param_grid={'learning_rate': array([1.000e-04, 1.112e-01, 2.223e-01, 3.334e-01, 4.445e-01, 5.556e-01,
+       6.667e-01, 7.778e-01, 8.889e-01, 1.000e+00]), 'subsample': array([0.1 , 0.55, 1.  ]), 'max_depth': array([1, 3, 5, 7, 9]), 'min_impurity_split': array([1.0000e-09, 1.1112e-05, 2.2223e-05, 3.3... 3.33334e-03, 4.44445e-03,
+       5.55556e-03, 6.66667e-03, 7.77778e-03, 8.88889e-03, 1.00000e-02])},
+       pre_dispatch='2*n_jobs', refit=True, return_train_score='warn',
+       scoring=None, verbose=0)"
